@@ -17,7 +17,8 @@ Portfólio pessoal desenvolvido para apresentar projetos, habilidades e contatos
 
 ## 📸 Preview
 
-foto
+<img width="1348" height="605" alt="image" src="https://github.com/user-attachments/assets/35634285-963d-4e6a-8f40-460f6383f7cb" />
+
 
 ## 🌐 Projeto online
 
